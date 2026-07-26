@@ -16,7 +16,7 @@ Mon parcours combine également une expérience en **communication, gestion de c
 - 🌍 Parcours international : formation en informatique à la **Tshwane University of Technology (Afrique du Sud)**
 - 📍 Basée à Dakar, Sénégal
 - 🗣️ Français : langue maternelle
-- 🇬🇧 Anglais : niveau intermédiaire (B1)
+- 🇬🇧 Anglais : niveau intermédiaire (B2)
 - 💡 Intérêt principal : développement logiciel, applications web et systèmes informatiques
 - 🚀 Objectif : évoluer vers un métier d'ingénieure logiciel et participer à la création de solutions innovantes
 
